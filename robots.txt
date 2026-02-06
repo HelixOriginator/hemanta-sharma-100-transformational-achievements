@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://helixoriginator.github.io/hemanta-sharma-100-transformational-achievements/sitemap.xml
